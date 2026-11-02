@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+pyserial
+requests
+numpy
+face_recognition
+face-recognition-models
+flask
+setuptools<81
